@@ -20,7 +20,7 @@ git cherry-pick 53690d5c
 make
 sudo make install
 ```
-get termite
+## get termite
 ```
 cd ~/git-src
 git clone --recursive https://github.com/thestinger/termite.git
@@ -30,7 +30,7 @@ make
 sudo make install
 ```
 
-for saner working od termite
+## for saner working od termite
 
 ```
 cd ~
