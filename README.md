@@ -1,32 +1,6 @@
-# void-dots
-
-# install dependencies
-```
-
-```
-# fetch, compile and install vte-ng
-
-```
-git clone https://github.com/onlyvip/vte-ng.git
-cd vte-ng
-git checkout 0.50.2-ng 
-./autogen.sh --prefix=/usr
-make
-sudo make install
-```
-# fetch, compile and install termite
-```
-cd ..
-git clone --recursive https://github.com/thestinger/termite
-cd termite
-sed 's/PREFIX = \/usr\/local/PREFIX = \/usr/' -i Makefile
-make
-sudo make install
-
-```
 
 
-#### another
+
 ```
 mkdir ~/git-src
 cd ~/git-src
