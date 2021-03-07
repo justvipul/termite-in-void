@@ -70,6 +70,7 @@ sudo make uninstall
 ```
 
 ```
+cd ~
 wget https://raw.githubusercontent.com/thestinger/termite/master/termite.terminfo
 tic -x termite.terminfo
 ```
