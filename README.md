@@ -65,8 +65,6 @@ sed 's/PREFIX = \/usr\/local/PREFIX = \/usr/' -i Makefile
 make
 sudo make install
 
-cd ~/git-src/vte-ng
-sudo make uninstall
 ```
 
 ```
