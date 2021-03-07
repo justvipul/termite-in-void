@@ -30,7 +30,7 @@ make
 sudo make install
 ```
 
-## for saner working od termite
+## for saner working of termite
 
 ```
 cd ~
