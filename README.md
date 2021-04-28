@@ -8,7 +8,7 @@ cd ~/git-src
 ## dependencies
 ```
 sudo xbps-install -Su
-sudo xbps-install -Sy git-all gcc make automake autoconf gtk-doc glib-devel vala-devel gobject-introspection pkg-config intltool gettext-devel gnutls gtk+3 pango gnutls-devel gtk+3-devel pango-devel gperf pcre2-devel base-devel git curl cmake wget xprop
+sudo xbps-install -Sy git-all gcc make automake autoconf gtk-doc glib-devel vala-devel gobject-introspection pkg-config intltool gettext-devel gnutls gtk+3 libtool pango gnutls-devel gtk+3-devel pango-devel gperf pcre2-devel base-devel git curl cmake wget xprop
 ``` 
 ## get vte
 ```
